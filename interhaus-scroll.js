@@ -1,2 +1,2 @@
-console.log("Hola");
+window.prompt("Hola");
 
