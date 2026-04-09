@@ -464,7 +464,7 @@ var swiper = new Swiper(".testimonios-coleccion", {
     onlyInViewport: true,
   },
   autoplay: {
-    delay: 3800,
+    delay: 3000,
     disableOnInteraction: false,
   },
 });
